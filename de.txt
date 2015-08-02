@@ -2,5 +2,5 @@
 # Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet) Bouquetfile
 #
 
-Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/iptv/Turkey_TURKiYE_Favori.m3u Spor
-Turkey TV http://hasbahcaiptv.com/m3u/iptv/iptv/Turkish_Staate_TURKi_ULKELER.m3u TURKI_ULKELER_by_HasBahCa
+Turkey-Main TV http://212.224.108.80/S1/HLS_LIVE/kanald/1500/prog_index.m3u8 Türkce
+
