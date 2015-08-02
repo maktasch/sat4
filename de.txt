@@ -2,12 +2,5 @@
 # Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet) Bouquetfile
 #
 
-INT_RADIO RADIO http://hasbahcaiptv.com/m3u/iptv/radios/int_radio.m3u ULUSLARARASI_RADYOLAR
-Germany RADIO http://hasbahcaiptv.com/m3u/iptv/radios/Deutsch_Radios.m3u Almanca_Radyolar
-Turkey RADIO http://hasbahcaiptv.com/m3u/iptv/radios/Turkce_Radyolar.m3u Turk_Radyolari_by HasBahCa
-
-Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/iptv/Turkey_TURKiYE_Favori.m3u TURKIYE_FAVORILER_by_HasBahCa
-Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/iptv/Turkey_TURKiYE_ULUSAL.m3u TURKIYE_ULUSAL_by_HasBahCa
-Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/iptv/Turk_ulusal_yedek.m3u TURKIYE_YEDEK_by_HasBahCa
-Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/iptv/Turkey_TURKiYE_YEREL.m3u TURKIYE_YEREL_by_HasBahCa
+Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/iptv/Turkey_TURKiYE_Favori.m3u Spor
 Turkey TV http://hasbahcaiptv.com/m3u/iptv/iptv/Turkish_Staate_TURKi_ULKELER.m3u TURKI_ULKELER_by_HasBahCa
