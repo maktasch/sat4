@@ -2,4 +2,4 @@
 # Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet) Bouquetfile
 #
 
-Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/iptv/Turkey_TURKiYE_Favori.m3u Metin
+Turkey-Main TV http://akamai248.tibo.tv/testeri/ngrp:ss1dga.stream_all/playlist.m3u8  Metin
