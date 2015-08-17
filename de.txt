@@ -2,4 +2,4 @@
 # Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet) Bouquetfile
 #
 
-metin TV https:// TÜRK
+Turkey-Main TV http://hasbahcaiptv.com/m3u/iptv/iptv/Turkey_TURKiYE_Favori.m3u Metin
