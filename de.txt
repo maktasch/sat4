@@ -1,1 +1,1 @@
-metin TV http://185.56.30.127:8082/TV4001 TEST_TV_(metin)
+metin TV http://bilgidiyari.net/m3u/iptv/iptv/German_livestreamde.m3u TEST_TV_(metin)
