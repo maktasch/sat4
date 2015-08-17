@@ -1,4 +1,4 @@
 ## Aufbau:
 # Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet) Bouquetfile
 #
-Romania RADIO http://database.freetuxtv.net/playlists/playlist_webradio_ro.m3u Web_Radio_(Romania)
+TURK RADIO http://database.freetuxtv.net/playlists/playlist_webradio_ro.m3u Web_Radio_(Romania)
