@@ -1,1 +1,1 @@
-Tagalog TV http://database.freetuxtv.net/playlists/playlist_webtv_tl.m3u Web_TV_(Tagalog)
+Tagalog TV http://database.freetuxtv.net/playlists/playlist_webtv_tl.m3u TEST_TV_(Tagalog)
