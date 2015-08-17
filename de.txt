@@ -1,5 +1,4 @@
 ## Aufbau:
 # Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet) Bouquetfile
 #
-TURK TV http://akamai248.tibo.tv/testeri/ngrp:ss1dga.stream_all/playlist.m3u8  Metin_Spor
-Turkey RADIO http://database.freetuxtv.net/playlists/playlist_webradio_tr.m3u Web_Radio_(Turkey)
+Romania RADIO http://database.freetuxtv.net/playlists/playlist_webradio_ro.m3u Web_Radio_(Romania)
