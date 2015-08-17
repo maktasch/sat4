@@ -1,4 +1,1 @@
-## Aufbau:
-# Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet) Bouquetfile
-#
-TURK RADIO http://database.freetuxtv.net/playlists/ TURK_RADYO_(TR)
+Tagalog TV http://database.freetuxtv.net/playlists/playlist_webtv_tl.m3u Web_TV_(Tagalog)
