@@ -2,13 +2,4 @@
 # Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet) Bouquetfile
 #
 
-
-INT_RADIO RADIO http://hasbahcaiptv.com/m3u/radios/int_radio.m3u INT_RADIOS_by_HasBahCa
-Germany RADIO https://dl.dropboxusercontent.com/s/7cmzizxiryjdgdu/userbouquet.deutsche_radiosender_mit_EPG.radio?dl=1&token_hash=AAH3HXG5QifpVxfmv9K7ury4o0pSVPqXPsBewlWy3ZFDzg Deutsche_Radiosender_by_Nobody28 B
-Turkey RADIO http://hasbahcaiptv.com/m3u/radios/Turkce_Radyolar.m3u Turkish_Radios_by HasBahCa
-Balkanradio RADIO http://hasbahcaiptv.com/m3u/radios/balkan_radio.m3u Balkan_Radios_by_HasBahCa
-AFRIKA RADIO http://hasbahcaiptv.com/m3u/radios/Afrika_Radios.m3u Afrika_Radios_by_HasBahCa
-SUD_AMERIKA RADIO http://hasbahcaiptv.com/m3u/radios/South_Amerika_Radios.m3u Süd_Amerika_Radios_by_HasBahCa
-UK RADIO http://hasbahcaiptv.com/m3u/radios/UK_Radios.m3u UK_ENG_RADIOS_by_HasBahCa
-USA RADIO http://hasbahcaiptv.com/m3u/radios/USA_Radios.m3u ABD_USA_Radios_by_HasBahCa
-International-TV TV http://tvtuxlive.com/de.m3u TUXLIVE_TV_RADIOS
+metin https:// TÜRK
