@@ -1,1 +1,1 @@
-metin TV http://bilgidiyari.net/m3u/iptv/iptv/German_livestreamde.m3u TEST_TV_(metin)
+metin TV https://github.com/maktasch/sat4/blob/master/list.m3u TEST_TV_(metin)
