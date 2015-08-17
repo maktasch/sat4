@@ -2,4 +2,4 @@
 # Flaggenanzeige Bouquettyp Downloadlink Bouquetname(Unterstriche werden im Plugin ausgeblendet) Bouquetfile
 #
 
-metin https:// TÜRK
+metin TV https:// TÜRK
